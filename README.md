@@ -14,8 +14,8 @@
 
 <!-- Visuals -->
 <div align="center">
-  <img src="./assests/intro1.gif" alt="Intro Gif" width="400"/>
-  <img src="./assests/intro2.gif" alt="Intro Gif" width="400"/>
+  <img src="./assests/intro1.png" alt="Intro" width="400"/>
+  <img src="./assests/intro2.png" alt="Intro" width="400"/>
 </div>
 
 # PDF Bot
