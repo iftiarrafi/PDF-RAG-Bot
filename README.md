@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🤖 PDF AI Bot</h1>
+  <h1>🤖 PDF Chat Bot</h1>
   <p><strong>A RAG Based AI PDF reading assistant created with LangChain and Open-Source LLM models</strong></p>
   
   <!-- Badges -->
