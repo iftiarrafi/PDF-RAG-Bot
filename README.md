@@ -1,3 +1,23 @@
+<div align="center">
+  <h1>🤖 PDF AI Bot</h1>
+  <p><strong>A RAG Based AI PDF reading assistant created with LangChain and Open-Source LLM models</strong></p>
+  
+  <!-- Badges -->
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status"></a>
+    <a href="#"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+    <a href="#"><img src="https://img.shields.io/badge/version-1.0.0-orange" alt="Version"></a>
+  </p>
+</div>
+
+<br />
+
+<!-- Visuals -->
+<div align="center">
+  <img src="./assests/intro1.gif" alt="Intro Gif" width="400"/>
+  <img src="./assests/intro2.gif" alt="Intro Gif" width="400"/>
+</div>
+
 # PDF Bot
 
 PDF Bot is a Streamlit-based Retrieval-Augmented Generation (RAG) app for chatting with PDF documents. It loads uploaded PDFs, splits them into chunks, embeds the chunks into a vector index, retrieves the most relevant passages for a user query, and answers with an LLM-backed agent.
