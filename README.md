@@ -12,10 +12,22 @@
 
 <br />
 
-<!-- Visuals -->
+## 🎥 Project Demo
+
 <div align="center">
-  <img src="./assests/intro1.png" alt="Intro" width="400"/>
-  <img src="./assests/intro2.png" alt="Intro" width="400"/>
+
+  <a href="YOUR_UNLISTED_YOUTUBE_LINK">
+    <img 
+      src="https://img.youtube.com/vi/c8cNnl3ZWiA/maxresdefault.jpg" 
+      alt="PDF Chat Bot Demo" 
+      width="800"
+    />
+  </a>
+
+  <p>
+    <strong>▶️ Click the image above to watch the full demo</strong>
+  </p>
+
 </div>
 
 # PDF Bot
