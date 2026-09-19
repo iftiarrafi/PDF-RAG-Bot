@@ -16,17 +16,11 @@
 
 <div align="center">
 
-  <a href="YOUR_UNLISTED_YOUTUBE_LINK">
-    <img 
-      src="https://img.youtube.com/vi/c8cNnl3ZWiA/maxresdefault.jpg" 
-      alt="PDF Chat Bot Demo" 
-      width="800"
-    />
-  </a>
+<a href="https://youtu.be/c8cNnl3ZWiA"> 
+<img src="https://img.youtube.com/vi/c8cNnl3ZWiA/maxresdefault.jpg" alt="PDF Chat Bot Demo" width="800" /> 
+</a>
 
-  <p>
-    <strong>▶️ Click the image above to watch the full demo</strong>
-  </p>
+<p> <strong>▶️ Click the image above to watch the full demo</strong> </p>
 
 </div>
 
